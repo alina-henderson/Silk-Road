@@ -1,0 +1,22 @@
+.footer {
+    margin-left: 16px;
+    box-sizing: border-box;
+    background-color: #2A2C2F;
+    padding-bottom: 24px;
+    padding-top: 64px;
+}
+
+@media screen and (min-width: 768px) {
+    .footer {
+        display: flex;
+        justify-content: space-between;
+        padding: 0 24px 24px;
+        margin: 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .footer {
+        padding: 0 48px 24px;
+    }
+}
