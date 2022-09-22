@@ -1,25 +1,24 @@
-# Проект: Путешествие по России
+# Project: Silk Road
 
-### Обзор
-* Описание проекта  и его функциональности
-* Использованные технологии
-* Ссылка на проект
+### Overview
+* Description of the project and its functionality
+* Used technologies
+* Project link
 
-**Описание проекта  и его функциональности**
+**Description of the project and its functionality**
 
-Этот проект - о путешествии по России. В нем описываются перспективы и направления, где в пределах России можно провести отпуск. В проекте затронуты темы возможности передвижения поездами, рассказывается о великолепии и разнообразии российского ландшафта и климата.
-Здесь реализован ряд функций, таких как изменение характеристик элементов при наведении курсора, подключены актуальные ссылки на соответствующие контенту вебсайты, и, пожалуй, основное - реализация адаптивной верстки под разные размеры экранов. Также работа потребовала подключения новых шрифтов
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+This project gives you an idea on significance of the Silk Road. For more than 20 centuries it was bridging East and West, China and Europe, and everything in between. You will read about goods transported along those routes, as well as deseases and even religions.
+A number of functions are implemented here, such as changing the characteristics of elements when hovering the cursor, relevant links to websites corresponding to the content are connected, and, perhaps, the main thing is the implementation of adaptive layout for different screen sizes. Also, the work required the inclusion of new fonts
+In Figma, we have placed a layout that shows how the project should look on the most common screen resolutions.
 
-**Использованные технологии**
+**Used technologies**
 
-- Работа с приложением Figma.
-- Использование grid-построения сеток.
-- Оперирование относительными единицами измерений для установления размеров.
+- Working with the Figma application.
+- Using grid-building grids.
+- Operating with relative units of measurement for setting dimensions.
 
 **Ссылка на проект**
 
-https://alina-henderson.github.io/russian-travel/
+https://alina-henderson.github.io/Silk-Road/
 
-Приятного прочтения!
+Enjoy your reading!
